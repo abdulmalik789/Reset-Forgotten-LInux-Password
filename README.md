@@ -11,17 +11,17 @@ After you Press `E` you will come to screen like this And Scroll Down with the `
 
 ![Alt Text](https://github.com/abdulmalik789/Reset-Forgotten-LInux-Password/blob/b37ff5995cc6b168879bae95cba523c03a924d86/s4.PNG)
 
-Until you se this line 
+Until you see this line 
 
-![Alt Text](https://github.com/abdulmalik789/Forgot-Kali-username-and-Password/blob/839e2d264ead20bcedc62675945b3084bd12d064/s5.PNG)
+![Alt Text](https://github.com/abdulmalik789/Reset-Forgotten-LInux-Password/blob/2403c93ef6433319349b5a216edc7cd78659fb91/s5.PNG)
 
 the Move the cursor to the corner of the line on the word and make read only `ro` to Read and write `rw` and type this `init= /bin/bash` and press `Ctrl + x`
 
-![Alt Text](https://github.com/abdulmalik789/Forgot-Kali-username-and-Password/blob/5710f31ca5294b57211f2b3687635d63a3c72264/s6.PNG)
+![Alt Text](https://github.com/abdulmalik789/Reset-Forgotten-LInux-Password/blob/2403c93ef6433319349b5a216edc7cd78659fb91/s6.PNG)
 
 Now you Will get `root` terminal without UI
 
-![Alt Text](https://github.com/abdulmalik789/Forgot-Kali-username-and-Password/blob/5710f31ca5294b57211f2b3687635d63a3c72264/s7.PNG)
+![Alt Text](https://github.com/abdulmalik789/Reset-Forgotten-LInux-Password/blob/2403c93ef6433319349b5a216edc7cd78659fb91/s7.PNG)
 
 Now Type `Passwd` and change the root password
 
