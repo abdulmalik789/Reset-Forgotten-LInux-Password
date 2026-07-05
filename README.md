@@ -25,27 +25,27 @@ Now you Will get `root` terminal without UI
 
 Now Type `Passwd` and change the root password
 
-![Alt Text](https://github.com/abdulmalik789/Forgot-Kali-username-and-Password/blob/5710f31ca5294b57211f2b3687635d63a3c72264/s8.PNG)
+![Alt Text](https://github.com/abdulmalik789/Reset-Forgotten-LInux-Password/blob/409d520d096afead3c1070406485827a171fbdae/s8.PNG)
 
 Now type to see This `grep -i "\b$\b" /etc/shadow` to see the User names that are available
 
-![Alt Text](https://github.com/abdulmalik789/Forgot-Kali-username-and-Password/blob/5710f31ca5294b57211f2b3687635d63a3c72264/s10.PNG)
+![Alt Text](https://github.com/abdulmalik789/Reset-Forgotten-LInux-Password/blob/409d520d096afead3c1070406485827a171fbdae/s10.PNG)
 
 Now You will see the user Names below
 
-![Alt Text]( https://github.com/abdulmalik789/Forgot-Kali-username-and-Password/blob/5710f31ca5294b57211f2b3687635d63a3c72264/s11.PNG)
+![Alt Text](https://github.com/abdulmalik789/Reset-Forgotten-LInux-Password/blob/409d520d096afead3c1070406485827a171fbdae/s11.PNG)
 
 Now Select your user name you gave and type `(yourusername) Passwd` and change the forgtten password of you account
 
-![Alt Text](https://github.com/abdulmalik789/Forgot-Kali-username-and-Password/blob/5710f31ca5294b57211f2b3687635d63a3c72264/s12.PNG)
+![Alt Text](https://github.com/abdulmalik789/Reset-Forgotten-LInux-Password/blob/409d520d096afead3c1070406485827a171fbdae/s12.PNG)
 
 Same as Above you cannot see the password when you are typing 
 
-![Alt Text](https://github.com/abdulmalik789/Forgot-Kali-username-and-Password/blob/5710f31ca5294b57211f2b3687635d63a3c72264/s13.PNG)
+![Alt Text](https://github.com/abdulmalik789/Reset-Forgotten-LInux-Password/blob/409d520d096afead3c1070406485827a171fbdae/s13.PNG)
 
 And Finally Type `reboot -f` and reboot the system and use like Normal 
 
-![Alt Text]( https://github.com/abdulmalik789/Forgot-Kali-username-and-Password/blob/5710f31ca5294b57211f2b3687635d63a3c72264/s14.PNG)
+![Alt Text](https://github.com/abdulmalik789/Reset-Forgotten-LInux-Password/blob/409d520d096afead3c1070406485827a171fbdae/s14.PNG)
 
 
 > [!TIP]
@@ -53,8 +53,8 @@ And Finally Type `reboot -f` and reboot the system and use like Normal
 
 `TO not Forget your password save it on the Place`
 
-![Alt Text](https://github.com/abdulmalik789/Forgot-Kali-username-and-Password/blob/bcd42b2cad3fd923644b7f2e43a3e4eaf93e00b6/B1.PNG)
+![Alt Text](https://github.com/abdulmalik789/Reset-Forgotten-LInux-Password/blob/409d520d096afead3c1070406485827a171fbdae/B1.PNG)
 
-![Alt Text](https://github.com/abdulmalik789/Forgot-Kali-username-and-Password/blob/bcd42b2cad3fd923644b7f2e43a3e4eaf93e00b6/B2.PNG)
+![Alt Text](https://github.com/abdulmalik789/Reset-Forgotten-LInux-Password/blob/409d520d096afead3c1070406485827a171fbdae/B2.PNG)
 
-![Alt Text](https://github.com/abdulmalik789/Forgot-Kali-username-and-Password/blob/bcd42b2cad3fd923644b7f2e43a3e4eaf93e00b6/B3.PNG)
+![Alt Text](https://github.com/abdulmalik789/Reset-Forgotten-LInux-Password/blob/409d520d096afead3c1070406485827a171fbdae/B3.PNG)
